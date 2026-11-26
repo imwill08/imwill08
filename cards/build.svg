@@ -1,6 +1,8 @@
-<svg width="290" height="200" viewBox="0 0 290 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BUILD: 3+ years">
+<svg width="290" height="200" viewBox="0 0 290 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="EXPERIENCE: 3+ years">
 <rect width="290" height="200" rx="16" fill="#2f4bff"/>
-<text x="24" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" font-weight="700" fill="#ffffff">BUILD</text>
+<text x="24" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" font-weight="700" fill="#ffffff">EXPERIENCE</text>
 <text x="266" y="40" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#ffffff">→</text>
 <text x="22" y="108" font-family="'Instrument Serif','Playfair Display',Georgia,'Times New Roman',serif" font-size="52" fill="#ffffff" letter-spacing="-1">3+<tspan font-style="italic"> years</tspan></text>
-<text x="24" y="150" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#ffffff">Shipping production web apps,</text><text x="24" y="170" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#ffffff">now at TechGropse.</text></svg>
+<text x="24" y="150" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#ffffff">React Developer at TechGropse,</text>
+<text x="24" y="170" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="500" fill="#ffffff">prev. Blitz Learning Tech.</text>
+</svg>

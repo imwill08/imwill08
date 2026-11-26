@@ -1,0 +1,26 @@
+<svg width="900" height="370" viewBox="0 0 900 370" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Experience and Education">
+<rect width="900" height="370" rx="20" fill="#f2f2f0"/>
+<text x="40" y="48" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#6b6b66">EXPERIENCE &amp; EDUCATION</text>
+<text x="860" y="48" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#6b6b66">2020 – PRESENT</text>
+<text x="40" y="96" font-family="'Instrument Serif','Playfair Display',Georgia,'Times New Roman',serif" font-size="40" fill="#111111">Where I’ve <tspan font-style="italic" fill="#2f4bff">built</tspan></text>
+
+<rect x="40" y="133" width="8" height="8" fill="#2f4bff"/>
+<text x="58" y="143" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#111111">TechGropse Pvt. Ltd.<tspan font-weight="400" fill="#6b6b66">  ·  React Developer</tspan></text>
+<text x="860" y="143" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#2f4bff">SEP 2025 – PRESENT</text>
+<text x="58" y="167" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#444444">Developing responsive React apps across business domains — reusable components, state management,</text>
+<text x="58" y="187" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#444444">dynamic forms &amp; workflows, REST APIs, third-party integrations, code reviews &amp; UI performance.</text>
+
+<line x1="40" y1="208" x2="860" y2="208" stroke="#dcdcd6"/>
+
+<rect x="40" y="229" width="8" height="8" fill="#111111"/>
+<text x="58" y="239" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="600" fill="#111111">Blitz Learning Technologies Pvt. Ltd.<tspan font-weight="400" fill="#6b6b66">  ·  Software Developer</tspan></text>
+<text x="860" y="239" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#6b6b66">JUN 2024 – SEP 2025</text>
+<text x="58" y="263" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#444444">Built company websites, HRMS platforms &amp; internal apps using Next.js and JavaScript —</text>
+<text x="58" y="283" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#444444">responsive reusable UI &amp; backend APIs for employee records, attendance, leave &amp; admin workflows.</text>
+
+<line x1="40" y1="304" x2="860" y2="304" stroke="#dcdcd6"/>
+
+<rect x="40" y="325" width="8" height="8" fill="#fdc518"/>
+<text x="58" y="335" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#111111">Chandigarh University, Punjab<tspan font-weight="400" fill="#6b6b66">  ·  B.E. in Computer Science Engineering</tspan></text>
+<text x="860" y="335" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#6b6b66">2020 – 2024</text>
+</svg>
